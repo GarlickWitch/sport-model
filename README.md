@@ -2,8 +2,8 @@
 
 # Target audience
 
-People with some experience in game design
-People who want fair compensation for their work
+* People with some experience in game design
+* Workers who want fair compensation
 
 # Prerequisites
 
