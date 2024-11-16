@@ -4,3 +4,11 @@
 
 People with some experience in game design
 People who want fair compensation for their work
+
+# Prerequisites
+
+1. Python 3
+1.1 Pandas
+   This churns the data
+1.2 elosports
+   This does the rank work
