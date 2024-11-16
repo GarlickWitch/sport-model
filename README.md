@@ -7,8 +7,9 @@
 
 # Prerequisites
 
-1. Python 3
-1.1 Pandas
+## Python 3
+Any flavor should do. I tested this with Jupyter.
+### Pandas
    This churns the data
-1.2 elosports
+### elosports
    This does the rank work
