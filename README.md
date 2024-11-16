@@ -13,3 +13,7 @@ Any flavor should do. I tested this with Jupyter.
    This churns the data
 ### elosports
    This does the rank work
+
+# Further reading
+
+If you're more of a basketball person, check out https://medium.com/@newstats.eu/ranking-euroleague-teams-using-elo-ratings-45befda8a7b2
